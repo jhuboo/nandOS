@@ -8,3 +8,7 @@ Date: 24 Feb 2021
 
 Most of the inspiration of this work came from the work of the giants who came before me, 
 and so graceciously shared their ideas/mistakes and paved a way for others at the [Osdev Wiki](https://wiki.osdev.org/)
+
+### Updates:
+
+*24 Feb 2021* : Just Created nandOS.iso that contains a "Hello A" OS!
